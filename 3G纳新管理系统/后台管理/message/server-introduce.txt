@@ -1,0 +1,19 @@
+一、JavaWeb部分
+
+第一阶段：JavaWeb前端技术
+
+web前端技术
+
+HTML, CSS, JavaScript基础, jQuery基础, BootStrap.
+
+第二阶段：服务器端技术
+
+Mysql及JDBC
+
+JavaWEB 核心技术：XML的概念与基本作用、XML的基本语法、XML的约束模式、DTD、Schema、名称空间。XML解析介绍、DOM4J解析XML、XPath的使用。
+
+WEB服务器的工作原理、Tomcat的安装与启动运行、Tomcat的体系结构、在Tomcat中配置WEB虚拟目录与发布WEB应用程序的方式、设置目录的默认网页、使用Tomcat配置虚拟主机、WAR文件生成与使用。HTTP协议详解。
+
+Servlet简介、Servlet生命周期、servlet配置详解、访问servlet路径分析、ServletConfig使用及servlet初始化参数的使用，ServletContext使用、系统初始化参数、web资源获取。
+
+HttpServletResponse和HttpServletRequest的应用、HTTP协议在web开发中应用、请求转发与重定向使用。

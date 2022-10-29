@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navigation{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.User{
+    width: 100%;
+    height: 900px;
+    background-image: url('../public/images/backhome.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+}
+.FromSingUp{
+    width: 400px;
+    margin: auto;
+    background-color: #e0f0e9;
+    opacity: .8;
+}
+.SingUpItem{
+    margin-bottom: 10px;
+}
+.Fromimage{
+    width: 100%;
+    height: 250px;
+   background-image: url('../public/images/form.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.Schedule{
+    position: relative;
+    width: 100%;
+    height: 700px;
+    padding-top: 20px;
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
+.SearchSchedule{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    background-color: #e9e7ef;
+    margin: auto;
+    padding-top: 20px;
+    margin-bottom: 10px;
+    opacity: .7;
+}
+.SearchSchedule span{
+    display: block;
+    margin-left: 50px;
+    font-size: 17px;
+    font-weight: 700;
+}
+.Searchfrom{
+    position: absolute;
+    top: 30%;
+}
+.mobilehead{
+    position: absolute;
+    left: 25%;
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-image: url('../public/images/logo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.BtnSchedule{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    bottom: 30px;
+    cursor: pointer;
+    background-image: linear-gradient(to right, #a8edea 0%, #fed6e3 100%);
+    border-radius: 20px;
+}
+
+.Login{
+    width: 100%;
+    height: 700px;
+    position: relative;
+    padding-top: 80px;
+    background-image: url('../public//images/backhome.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.loginfrom{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+}
+.btnLogin{
+    position: absolute;
+    margin: auto;
+    left: 50%;
+    margin-left: -44px;
+}
+.Show{
+    width: 100%;
+    height: 700px;
+    position: relative;
+    background-image: url('../public//images/backhome.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ShowArea{
+    position: relative;
+    width: 80%;
+    margin: auto;
+}
+.homepage{
+    position: relative;
+    width: 100%;
+    background-image: url('../public/images/backhome.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    padding-top: 30px
+}
+.door{
+    position: relative;
+    width: 80%;
+    height: 700px;
+    margin: auto;
+    background: black; 
+    opacity:0.7;  
+}
+.homecontent{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 85%;
+    height: 100%;
+    background-color: #c0ebd7;
+    font-size: 24px;
+    font-weight: 500;
+    color: black;
+    text-indent: 2em;
+    padding-top: 50px;
+}
+.reminder{
+    position: relative;
+    width: 300px;
+    height: 30px;
+    background-color: whitesmoke;
+}
+.reminderimg{
+    position: absolute;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url('../public/images/错误.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    left: -20px;
+}
+.remindertext{
+    position: absolute;
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+    top: 2px;
+    color: red;
+}
+.example{
+    position: absolute;
+    margin: 20px 0;
+    margin-bottom: 20px;
+    padding: 30px 50px;
+    text-align: center;
+    /* background: rgba(0, 0, 0, 0.05); */
+    border-radius: 4px;
+    left: 50%;
+    top: 20%;
+    margin-left: -170px;
+}
+.skip{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 900px;
+    background-color: rgba(0, 0, 0, .7);
+    z-index: 102;
+}
+.skipcontent{
+    display: block;
+    margin-top: 20px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+.ShowSchedule{
+    position: relative;
+    width: 100%;
+    height: 700px;
+    background-color: rgba(0, 0, 0, .1);
+}
+.timeline{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+.timeline span{
+    display: block;
+    margin-bottom: 10px;
+}
+.usermessage{
+    position: absolute;
+    opacity: .7;
+    left: 40%;
+    top: 35%;
+}
+.steps{
+    position: absolute;
+    width: 50%;
+    height: 15%;
+    left: 40%;
+    top: 60%;
+}
+.steps span{
+    display: block;
+    margin-bottom: 30px;
+}
+.ScheduleLogo{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: pink;
+    top: 5%;
+    left: 50%;
+    margin-left: -75px;
+    border-radius: 75px;
+    background-image: url('../public/images/logo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Loginlogo{
+    width: 100px;
+    height: 100px;
+    background-color: #57c6e1;
+    margin-bottom: 30px;
+    margin-left: 150px;
+    border-radius: 50px;
+    background-image: url('../public/images/logo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

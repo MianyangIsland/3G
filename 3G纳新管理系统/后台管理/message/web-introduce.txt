@@ -1,0 +1,5 @@
+1、从web1.0到web2.0，网页制作已经变为前端开发了。现在对于前端开发，你要学的不是什么“网页三剑客”，而是“HTML+CSS+JavaScript”；
+2、前端技术核心元素的是HTML、CSS和JavaScript，但是我们还要学习一些Ajax、SEO知识；
+3、前端技术只能开发静态网页，而进一步学习了后端技术，你能开发一个用户交互性更好、功能更加强大的网站；
+4、后端技术有ASP.NET（或PHP）、SQL Server等；
+5、学习路线：HTML入门→CSS入门→HTML进阶→CSS进阶→JavaScript入门→jQuery入门→ASP.NET入门（或PHP入门）→Ajax→ASP.NET进阶（或PHP进阶）；
